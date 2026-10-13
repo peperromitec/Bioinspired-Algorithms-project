@@ -7,7 +7,11 @@ authors = [
     { name = "PEPERROMI", email = "a01668319@tec.mx" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+]
 
 [project.scripts]
 bioinspired-algorithms-project = "bioinspired_algorithms_project:main"
