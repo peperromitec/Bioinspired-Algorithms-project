@@ -1,0 +1,46 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# uv specific cache
+.uv/
+# Sensitive Data / Local Config
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution / Build
+build/
+dist/
+*.egg-info/
+
+# --- Virtual Environments ---
+.venv/
+venv/
+ENV/
+
+# --- Python & uv ---
+__pycache__/
+*.py[cod]
+*.so
+.uv/
+
+# --- Environment & Secrets ---
+.env
+
+# --- IDEs & OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
