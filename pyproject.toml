@@ -2,5 +2,10 @@
 name = "ma2015-202-planta-fisica"
 version = "0.1.0"
 description = "Reproducible teaching base for the Planta Física challenge"
+authors = [
+    { name = "PEPERROMI", email = "a01668319@tec.mx" },
+    { name = "Duan Kage", email = "a01833207@tec.mx" },
+    { name = "Arturo Emiliano Gutierrez Fuentes", email = "a01661034"}
+]
 requires-python = ">=3.12,<3.15"
 dependencies = ["numpy==2.3.5", "matplotlib>=3.10,<4", "jupyterlab>=4.4,<5", "ipykernel>=6.30,<8"]
