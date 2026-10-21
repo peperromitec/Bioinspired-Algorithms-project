@@ -3,7 +3,7 @@ name = "ma2015-202-planta-fisica"
 version = "0.1.0"
 description = "Reproducible teaching base for the Planta Física challenge"
 authors = [
-    { name = "PEPERROMI", email = "a01668319@tec.mx" },
+    { name = "Omar José Bolaños Valencia", email = "a01668319@tec.mx" },
     { name = "Kaige Duan", email = "a01833207@tec.mx" },
     { name = "Arturo Emiliano García Fuentes", email = "a01661034@tec.mx" }
 ]
